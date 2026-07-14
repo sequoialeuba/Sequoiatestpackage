@@ -57,7 +57,9 @@ power_detect <- function(n, p) {
 # *afsljsaf*
 
 #' `afjadlfkja` *faslkf*
-#####
 
+foobar <- function(z) {
+  print(z)
+}
 
 ####
