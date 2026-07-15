@@ -8,7 +8,7 @@
 [![Codecov test coverage](https://codecov.io/gh/sequoialeuba/Sequoiatestpackage/graph/badge.svg)](https://app.codecov.io/gh/sequoialeuba/Sequoiatestpackage)
 <!-- badges: end -->
 
-The goal of Sequoiatestpackage is to ...
+The goal of Sequoiatestpackage is to ...SOME EXAMPLE TXT
 
 ## Installation
 
