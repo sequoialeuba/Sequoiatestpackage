@@ -2,7 +2,9 @@
 # Sequoiatestpackage
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/R-CMD-check.yaml)
+[![Checks_main](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_main.yaml/badge.svg)](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_main.yaml)
+[![Checks_develop](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_develop.yaml/badge.svg)](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_develop.yaml)
+
 <!-- badges: end -->
 
 The goal of Sequoiatestpackage is to ...
