@@ -5,6 +5,7 @@
 [![Checks_main](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_main.yaml/badge.svg)](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_main.yaml)
 [![Checks_develop](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_develop.yaml/badge.svg)](https://github.com/sequoialeuba/Sequoiatestpackage/actions/workflows/checks_develop.yaml)
 
+[![Codecov test coverage](https://codecov.io/gh/sequoialeuba/Sequoiatestpackage/graph/badge.svg)](https://app.codecov.io/gh/sequoialeuba/Sequoiatestpackage)
 <!-- badges: end -->
 
 The goal of Sequoiatestpackage is to ...
